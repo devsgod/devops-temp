@@ -23,7 +23,7 @@
     "qawolf": "^0.9.2",
     "sequelize": "^3.23.6",
     "sequelize-cli": "^3.1.0",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
   },
   "devDependencies": {
     "cross-env": "^3.1.3",
